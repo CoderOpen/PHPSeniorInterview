@@ -10,6 +10,7 @@
 * nginx有哪些功能
 * 常用配置项参数调优
 * nginx和php-fpm两种交互作用模式及区别
+* nginx负载均衡策略优缺点
 
 ### 守护进程supervisor
 * 作用和原理
